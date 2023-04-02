@@ -1,0 +1,17 @@
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\bin\Debug\net6.0\EsepWebhook.deps.json
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\bin\Debug\net6.0\EsepWebhook.runtimeconfig.json
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\bin\Debug\net6.0\EsepWebhook.dll
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\bin\Debug\net6.0\EsepWebhook.pdb
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Debug\net6.0\EsepWebhook.csproj.AssemblyReference.cache
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Debug\net6.0\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Debug\net6.0\EsepWebhook.AssemblyInfoInputs.cache
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Debug\net6.0\EsepWebhook.AssemblyInfo.cs
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Debug\net6.0\EsepWebhook.csproj.CoreCompileInputs.cache
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Debug\net6.0\EsepWebhook.csproj.CopyComplete
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Debug\net6.0\EsepWebhook.dll
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Debug\net6.0\refint\EsepWebhook.dll
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Debug\net6.0\EsepWebhook.pdb
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Debug\net6.0\EsepWebhook.genruntimeconfig.cache
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Debug\net6.0\ref\EsepWebhook.dll

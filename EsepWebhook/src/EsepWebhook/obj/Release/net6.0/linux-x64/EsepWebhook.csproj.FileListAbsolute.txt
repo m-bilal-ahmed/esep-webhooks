@@ -1,0 +1,17 @@
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\EsepWebhook.deps.json
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\EsepWebhook.runtimeconfig.json
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\EsepWebhook.dll
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\EsepWebhook.pdb
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.csproj.AssemblyReference.cache
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.AssemblyInfoInputs.cache
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.AssemblyInfo.cs
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.csproj.CoreCompileInputs.cache
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.csproj.CopyComplete
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.dll
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\refint\EsepWebhook.dll
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.pdb
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.genruntimeconfig.cache
+D:\UF\SPRING 2023\Software Enterprise\eventDriven\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\ref\EsepWebhook.dll
